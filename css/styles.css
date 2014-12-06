@@ -522,7 +522,7 @@ background-color: blue;
 }
 
 .landscape{
-  background: url('{{site.url}}assets/landscape_fade.jpg')
+  background: url('{{site.url}}assets/landscape_fade.jpg');
 }
 
 .index-page{
