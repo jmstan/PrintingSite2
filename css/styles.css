@@ -114,8 +114,8 @@ body, .wrapper, html{
 
 ul{
    overflow: hidden;
+   margin-left: 50px;
 }
-
 
 ul li{
   
@@ -124,7 +124,9 @@ ul li{
    list-style: none;
 }
 
-
+ul li a:first-child{
+  margin-left: 0px;
+}
 
 
 nav ul a{
