@@ -419,6 +419,9 @@ button.submit{
 
 }
 
+.index-page{
+  background: url('{{site.url}}assets/01_fade.jpg');
+}
 
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
