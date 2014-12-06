@@ -534,8 +534,9 @@ background-color: blue;
   height: 800px;
 }
 
-.service-page{
+.service-image{
   background: url('{{site.url}}assets/03_01.jpg');
+  height:800px;
 }
 
 .btn {
