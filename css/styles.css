@@ -124,7 +124,7 @@ ul li{
    list-style: none;
 }
 
-ul li a:first-child{
+ul li:first-child{
   margin-left: 0px;
 }
 
