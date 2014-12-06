@@ -529,6 +529,7 @@ background-color: blue;
   background: url('{{site.url}}assets/01_fade.jpg');
   background-size: cover;
   background-position: center;
+  height: 800px;
 }
 
 
