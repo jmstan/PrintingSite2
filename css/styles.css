@@ -522,6 +522,12 @@ background-color: blue;
   background: url('{{site.url}}assets/landscape_fade.jpg')
 }
 
+.index-page{
+  background: url('{{site.url}}assets/01_fade.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
 
 .btn {
   background: white;
