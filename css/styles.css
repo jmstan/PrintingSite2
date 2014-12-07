@@ -330,6 +330,10 @@ span.location-blurb{
   margin-top: 6% !important;
    font: 14px 'Fauna One', Georgia, serif;
    color:black;
+   display: inline-block;
+margin-left: 25px;
+margin-top: 27px;
+position: absolute
 }
 
 span.email-blurb{
@@ -458,7 +462,7 @@ button.submit{
   border:1px solid black;
   margin-right: 2px;
   font-family: "faricy-new-web";
-  font-size: 16px; 
+  font-size: 14px; 
 
 }
 
