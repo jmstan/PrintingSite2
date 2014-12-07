@@ -694,5 +694,11 @@ ul li{
   text-align: center;
 }
 
+.location-icon, .email-icon, .phone-icon{
+  width:75%;
+  margin: 0 12.5%;
+  text-align: none;
+}
+
 
  } 
