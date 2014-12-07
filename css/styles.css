@@ -669,5 +669,13 @@ ul li{
   margin-top: 53%;
 }
 
+.nav.nav{
+  margin-left: 0px !important;
+}
+
+ul li{
+  text-align: center;
+}
+
 
  } 
