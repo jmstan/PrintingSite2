@@ -332,7 +332,7 @@ span.location-blurb{
    color:black;
    display: inline-block;
 margin-left: 25px;
-margin-top: 27px;
+margin-top: 15px;
 position: absolute
 }
 
@@ -341,7 +341,7 @@ span.email-blurb{
   font: 14px 'Fauna One', Georgia, serif;
   color:black;
   margin-left: 25px;
-  margin-top: 32px;
+  margin-top: 15px;
   position: absolute;
 }
 
@@ -375,7 +375,7 @@ text-align: center;
 }
 
 .email-icon, .phone-icon{
-  margin-top: 3%;
+  margin-top: 11%;
 }
 
 .location-icon, .email-icon, .phone-icon{
