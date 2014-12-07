@@ -601,11 +601,19 @@ background-color: blue;
   background: url('{{site.url}}assets/01.jpg');
 }*/
 
-@media screen and (max-width:767px){
+@media screen and (max-width:989px){
    ul li{
       float:none;
       margin: 0 auto;
    }
 
+   .main-title{
+      margin-top: 35%;
+      
+     
+   }
 
+   h1.head1{
+    font: 48px/68px 'Playfair Display', Georgia, serif;
+   }
 }
