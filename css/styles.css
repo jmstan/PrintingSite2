@@ -405,6 +405,8 @@ a{
 .title{
   font: 36px/68px 'Playfair Display', Georgia, serif;
   letter-spacing: 1px;
+  color:black;
+  margin-top: 10%;
 }
 
 .icons-all{
