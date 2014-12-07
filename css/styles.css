@@ -338,7 +338,7 @@ span.email-blurb{
   color:black;
   margin-left: 25px;
   margin-top: 32px;
-  position: left;
+  position: absolute;
 }
 
 span.number-blurb{
