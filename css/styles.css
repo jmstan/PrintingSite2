@@ -640,7 +640,11 @@ h2.head1{
   font-size: 16px;
 }   
 
-
+.main-title{
+width: 95%;
+margin: 41% 2.5%;
+text-align: center;
+}
 
 
 
