@@ -171,20 +171,19 @@ color:white;
 
 .main-title {
 font: 18px/30px 'Fauna One', Georgia, serif;
-margin-top: 30%;
+margin-top: 9%;
 text-align: left;
 color: black;
-z-index: 1;
-width: 581px;
-margin-left: 5%;
+
+
 line-height: 1.3;
 display: table-cell;
-top: 40%;
+
 vertical-align: middle;
-position: absolute;
+
   }
 
-span.head1{
+h2.head1{
  font: 48px/68px 'Playfair Display', Georgia, serif;
 font-weight: 700;
 margin-bottom: 10%;
