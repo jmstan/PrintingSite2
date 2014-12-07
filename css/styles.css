@@ -611,6 +611,7 @@ background-color: blue;
 
    h2.head1{
     font: 48px/68px 'Playfair Display', Georgia, serif;
+    font-weight: 700;
    }
 
    nav.nav{
