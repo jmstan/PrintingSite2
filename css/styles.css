@@ -606,7 +606,7 @@ background-color: blue;
 
    .main-title{
       margin-top: 35%;
-      margin-left: 25px;  
+      margin-left: 25px !important;  
    }
 
    h2.head1{
