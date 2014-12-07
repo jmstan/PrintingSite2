@@ -613,7 +613,7 @@ background-color: blue;
     font: 48px/68px 'Playfair Display', Georgia, serif;
    }
 
-   .nav{
+   nav.nav{
     margin-left: 25px;
    }
 }
