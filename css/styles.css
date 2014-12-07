@@ -327,12 +327,12 @@ input#input_message.form-control{
 }
 
 span.location-blurb{
-  margin-top: 6% !important;
+
    font: 14px 'Fauna One', Georgia, serif;
    color:black;
    display: inline-block;
 margin-left: 25px;
-margin-top: 15px;
+margin-top: 32px;
 position: absolute
 }
 
