@@ -650,6 +650,10 @@ background-color: blue;
     margin-top: 5%;
    }
 
+   .title{
+    margin-top: 50%;
+   }
+
 }
 
 @media screen and (max-width:767px){
