@@ -332,7 +332,7 @@ span.location-blurb{
    color:black;
    display: inline-block;
 margin-left: 25px;
-margin-top: 32px;
+margin-top: 37px;
 position: absolute
 }
 
@@ -341,7 +341,7 @@ span.email-blurb{
   font: 14px 'Fauna One', Georgia, serif;
   color:black;
   margin-left: 25px;
-  margin-top: 15px;
+  margin-top: 30px;
   position: absolute;
 }
 
@@ -459,7 +459,7 @@ button.submit{
   background: white;
   border:1px solid black;
   margin-right: 2px;
-  font-family: "faricy-new-web";
+  font: 14px 'Fauna One', Georgia, serif;
   font-size: 14px; 
 
 }
