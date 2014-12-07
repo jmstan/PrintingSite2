@@ -606,11 +606,14 @@ background-color: blue;
 
    .main-title{
       margin-top: 35%;
-      
-     
+      margin-left: 25px;  
    }
 
    h2.head1{
     font: 48px/68px 'Playfair Display', Georgia, serif;
+   }
+
+   nav{
+    margin-left: 25px;
    }
 }
