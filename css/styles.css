@@ -169,9 +169,9 @@ color:white;
 }
 
 
-h2.main-title {
+.main-title {
 font: 18px/30px 'Fauna One', Georgia, serif;
-margin-top: 30px;
+margin-top: 30%;
 text-align: left;
 color: black;
 z-index: 1;
