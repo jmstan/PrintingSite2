@@ -596,6 +596,10 @@ background-color: blue;
    color:    black;
 }
 
+.head2{
+  margin-top: 75px;
+}
+
 
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
