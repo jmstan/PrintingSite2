@@ -602,10 +602,7 @@ background-color: blue;
 }*/
 
 @media screen and (max-width:989px){
-   ul li{
-      float:none;
-      margin: 0 auto;
-   }
+
 
    .main-title{
       margin-top: 35%;
