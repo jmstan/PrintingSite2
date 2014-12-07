@@ -647,7 +647,11 @@ text-align: center;
 }
 
 
-
+ul li{
+  float:none;
+  margin: 0px;
+  text-align: left;
+}
 
 
 
