@@ -627,3 +627,21 @@ background-color: blue;
     margin-left: 25px !important;
    }
 }
+
+@media screen and (max-width:767px){
+
+h2.head1{
+    font: 28px/68px 'Playfair Display', Georgia, serif;
+    font-weight: 700;
+    margin-bottom: 0;
+   }
+
+
+
+
+
+
+
+
+
+ } 
