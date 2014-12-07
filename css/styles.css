@@ -687,7 +687,7 @@ ul li{
   text-align: left;
 }
 
-.service-title{
+.service-title, .ready{
   margin-top: 200px;
 }
 
@@ -711,7 +711,10 @@ ul li{
 }
 
 
-
+p.icons4{
+  width:100%;
+  margin-top: 3%;
+}
 
 
  } 
