@@ -626,8 +626,17 @@ background-color: blue;
    }
 
    .main-box{
-    margin-top: 10%;
+    margin-top: 0%;
    }
+
+   .service-title{
+    margin-top: 13%;
+   }
+
+   .box1, .box2, .box3{
+    margin-top: 5%;
+   }
+
 }
 
 @media screen and (max-width:767px){
