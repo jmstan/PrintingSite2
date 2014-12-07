@@ -452,9 +452,7 @@ font-weight: 400;
   background: url('{{site.url}}assets/frames_small.jpg');
 }
 
-#gmap_canvas{
-   border:1px solid black;
-   }
+
 
 button.submit{
   padding: 10px 25px;
@@ -485,7 +483,7 @@ button.submit{
 
 .aboutme-blurb{
 
-  font: 16px/20px 'Fauna One', Georgia, serif;
+  font: 16px/24px 'Fauna One', Georgia, serif;
 }
 
 .color1{
