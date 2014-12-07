@@ -614,6 +614,6 @@ background-color: blue;
    }
 
    nav.nav{
-    margin-left: 25px;
+    margin-left: 25px !important;
    }
 }
