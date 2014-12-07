@@ -637,6 +637,14 @@ background-color: blue;
     margin-top: 5%;
    }
 
+   .email-icon, .phone-icon{
+    margin-top: 0px;
+   }
+
+   .email-icon, .phone-icon, .location-icon{
+    text-align: center;
+   } 
+
 }
 
 @media screen and (max-width:767px){
