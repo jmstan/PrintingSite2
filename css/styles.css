@@ -700,5 +700,13 @@ ul li{
   text-align: none;
 }
 
+.message-blurb, .message-form{
+  width:95%;
+  margin: 0 2.5%;
+}
+
+
+
+
 
  } 
