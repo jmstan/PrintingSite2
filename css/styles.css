@@ -582,6 +582,21 @@ background-color: blue;
   margin-top: 5%;
 }
 
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #909;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #909;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #909;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:    #909;
+}
+
 
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
