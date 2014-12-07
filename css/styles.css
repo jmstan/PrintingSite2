@@ -642,8 +642,13 @@ background-color: blue;
    }
 
    .email-icon, .phone-icon, .location-icon{
-    text-align: center;
+    text-align: center; 
    } 
+   
+
+   .icons-all{
+    margin-top: 5%;
+   }
 
 }
 
