@@ -333,7 +333,7 @@ span.location-blurb{
 }
 
 span.email-blurb{
-  margin-top: 10% !important;
+  display: inline-block;
   font: 14px 'Fauna One', Georgia, serif;
   color:black;
   margin-left: 25px;
@@ -342,9 +342,12 @@ span.email-blurb{
 }
 
 span.number-blurb{
-  margin-top: 10% !important;
-  font: 14px 'Fauna One', Georgia, serif;
-  color:black;
+display: inline-block;
+font: 14px 'Fauna One', Georgia, serif;
+color:black;
+margin-left: 25px;
+margin-top: 34px;
+position: absolute;
 }
 
 
