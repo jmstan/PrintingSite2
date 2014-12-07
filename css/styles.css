@@ -491,6 +491,7 @@ button.submit{
 
 .upload{
   float:left;
+  margin-left: 15px;
  
 } 
 
@@ -595,6 +596,11 @@ background-color: blue;
 
 .head2{
   margin-top: 75px;
+}
+
+.here{
+  margin: 0 auto;
+  width: 860px;
 }
 
 
