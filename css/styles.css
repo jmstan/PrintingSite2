@@ -583,18 +583,18 @@ background-color: blue;
 }
 
 ::-webkit-input-placeholder { /* WebKit browsers */
-    color:    #909;
+    color:    black;
 }
 :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-   color:    #909;
+   color:    black;
    opacity:  1;
 }
 ::-moz-placeholder { /* Mozilla Firefox 19+ */
-   color:    #909;
+   color:    black;
    opacity:  1;
 }
 :-ms-input-placeholder { /* Internet Explorer 10+ */
-   color:    #909;
+   color:    black;
 }
 
 
