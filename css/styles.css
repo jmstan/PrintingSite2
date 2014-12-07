@@ -655,6 +655,15 @@ background-color: blue;
     margin-top: 100px;
    }
 
+   p.icons4{
+  width:100%;
+  margin-top: 3%;
+}
+
+.upload{
+  margin-bottom: 5%;
+}
+
 }
 
 @media screen and (max-width:767px){
