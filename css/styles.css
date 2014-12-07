@@ -700,9 +700,9 @@ ul li{
   text-align: left;
 }
 
- .message-form{
-  width:95%;
-  margin: 0 2.5%;
+ .message-form .message-blurb{
+  width:95% !important;
+  margin: 0 2.5% !important;
 }
 
 
