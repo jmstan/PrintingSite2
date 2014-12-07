@@ -618,6 +618,10 @@ background-color: blue;
     font-weight: 700;
    }
 
+   .head2{
+    margin-top: 25px;
+   }
+
    nav.nav{
     margin-left: 25px !important;
    }
