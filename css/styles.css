@@ -581,7 +581,9 @@ background-color: blue;
   text-decoration: none;
 }
 
-
+.about-box{
+  margin-top: 5%;
+}
 
 
 /*.fullscreen.background.parallax{
