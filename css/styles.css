@@ -326,19 +326,19 @@ input#input_message.form-control{
   
 }
 
-p.location-blurb{
+span.location-blurb{
   margin-top: 6% !important;
    font: 14px 'Fauna One', Georgia, serif;
    color:black;
 }
 
-p.email-blurb{
+span.email-blurb{
   margin-top: 10% !important;
   font: 16px 'Fauna One', Georgia, serif;
   color:black;
 }
 
-p.number-blurb{
+span.number-blurb{
   margin-top: 10% !important;
   font: 16px 'Fauna One', Georgia, serif;
   color:black;
