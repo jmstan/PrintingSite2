@@ -441,9 +441,6 @@ font-weight: 400;
   margin-top: 4%;
 }
 
-.project1{
-  background: url('{{site.url}}assets/frames_small.jpg');
-}
 
 
 
@@ -598,6 +595,8 @@ background-color: blue;
 .head2{
   margin-top: 75px;
 }
+
+
 
 
 /*.fullscreen.background.parallax{
