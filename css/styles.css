@@ -253,15 +253,9 @@ h2.text {
 
 .main-box{
   overflow: hidden;
-
-position: absolute;
-left: 50%;
-
-top:60%;
--webkit-transform: translate(-50%, -50%);
-width: 900px;
-margin: 0 auto;
-color:black;
+  width: 900px;
+  margin: 0 auto;
+  color:black;
 }
 
 .title-box{
@@ -628,6 +622,10 @@ background-color: blue;
 
    nav.nav{
     margin-left: 25px !important;
+   }
+
+   .main-box{
+    margin-top: 10%;
    }
 }
 
