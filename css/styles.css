@@ -687,7 +687,7 @@ ul li{
   text-align: left;
 }
 
-.service-title, .ready{
+.service-title, h2.ready{
   margin-top: 200px;
 }
 
