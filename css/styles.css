@@ -697,10 +697,10 @@ ul li{
 .location-icon, .email-icon, .phone-icon{
   width:75%;
   margin: 0 12.5%;
-  text-align: none;
+  text-align: left;
 }
 
-.message-blurb, .message-form{
+ .message-form{
   width:95%;
   margin: 0 2.5%;
 }
