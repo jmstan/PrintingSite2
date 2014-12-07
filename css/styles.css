@@ -430,6 +430,9 @@ margin-top: 10%;
 margin-bottom: 7%;
 letter-spacing: 1px;
 font-weight: 400;
+ background: url('{{site.url}}assets/sunset.jpg');
+ background-size: cover;
+ background-position: center;
 }
 
 .projects{
