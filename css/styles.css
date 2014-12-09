@@ -605,10 +605,12 @@ background-color: blue;
   width: 860px;
 }
 
-span.paper-head{
-  margin-left: 170px;
-}
 
+ span.paper-head{
+    font: 48px/68px 'Playfair Display', Georgia, serif;
+    font-weight: 700;
+    margin-bottom: 0;
+   }
 
 
 /*.fullscreen.background.parallax{
@@ -634,11 +636,7 @@ span.paper-head{
    }
 
 
-   span.paper-head{
-    font: 48px/68px 'Playfair Display', Georgia, serif;
-    font-weight: 700;
-    margin-bottom: 0;
-   }
+  
 
    nav.nav{
     margin-left: 25px !important;
