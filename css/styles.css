@@ -620,6 +620,10 @@ line-height: 1.4;
 button{
   height: 35px;
 border: 1px solid black;
+height: 35px;
+border: 2px solid black;
+border-radius: 4px;
+margin-top: 5px;
 }
 
 @media screen and (max-width:989px){
